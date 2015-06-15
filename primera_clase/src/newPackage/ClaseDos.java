@@ -3,13 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package primera_clase;
+package newPackage;
 
 /**
  *
  * @author laoratorio
  */
 public class ClaseDos {
-   
+    
+   private String nombre= "ana";
+   protected int algo= 1;
+   public boolean OtraCosa = true;
     
  }
