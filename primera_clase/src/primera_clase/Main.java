@@ -24,6 +24,7 @@ public class Main {
         System.out.println(" atributos de clase DOs  " + p1.OtraCosa );
         ClaseTres p2=new ClaseTres(); 
          System.out.println(" atributos de clase Tres  " + p2.prot );
+     System.out.println(" atributos de clase Tres  " + p2.i );
     }
 
 }
